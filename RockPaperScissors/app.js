@@ -13,7 +13,6 @@ generateComputerChoice()
 getResult()
 }))
 
-
 function generateComputerChoice() {
     const randomNumber = Math.floor( Math.random() * 3 )+1// possibleChoices.lenght
 console.log(randomNumber)
